@@ -11,7 +11,7 @@ I am a frontend developer and aspiring to be a fullstack developer. At the momen
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning about _Python_
 - 👯 I’m looking to collaborate on any open source projects
-- 📫 How to reach me *obsayomisamuel2403@gmail.com*
+- 📫 How to reach me *obayomisamuel2403@gmail.com*
 - 📁 Check out my portfolio [coming.soon](#)
 - ⚡ Fun fact: _I no dey rest_
 
