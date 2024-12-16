@@ -2,9 +2,9 @@
 
 # Hi, I'm Ayoola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/Obayomi Samuel/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ObayomiSamuel/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/obayomisamuel1)
-[<img src="https://komarev.com/ghpvc/?username=promisszn&label=Profile%20views&color=0e75b6&style=flat" alt="promisszn" />](https://github.com/ayoolasam/ayoolasam)
+[<img src="https://komarev.com/ghpvc/?username=ayoolasam&label=Profile%20views&color=0e75b6&style=flat" alt="ayoolasam" />](https://github.com/ayoolasam/ayoolasam)
 
 I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
