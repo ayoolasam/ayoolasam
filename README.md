@@ -12,7 +12,7 @@ I am a frontend developer and aspiring to be a fullstack developer. At the momen
 - 🌱 I’m currently learning about _Flutter and Dart_
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me *obayomisamuel2403@gmail.com*
-- 📁 https://obayomi-ayoola.vercel.app/(#)
+- 📁 https://obayomi-ayoola.vercel.app/
 - ⚡ Fun fact: _I no dey rest_
 
 ### Tools & Technologies
