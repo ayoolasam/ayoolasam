@@ -9,10 +9,10 @@
 I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
-- 🌱 I’m currently learning about _Python_
+- 🌱 I’m currently learning about _Flutter and Dart_
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me *obayomisamuel2403@gmail.com*
-- 📁 Check out my portfolio [coming.soon](#)
+- 📁 https://obayomi-ayoola.vercel.app/(#)
 - ⚡ Fun fact: _I no dey rest_
 
 ### Tools & Technologies
