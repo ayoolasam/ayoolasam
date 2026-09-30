@@ -6,10 +6,10 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/obayomisamuel1)
 [<img src="https://komarev.com/ghpvc/?username=ayoolasam&label=Profile%20views&color=0e75b6&style=flat" alt="ayoolasam" />](https://github.com/ayoolasam/ayoolasam)
 
-I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I am a frontend developer and aspiring to be a fullstack developer. At the moment, I am more focused on building front-end,backend and ai projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
-- 🌱 I’m currently learning about _Flutter and Dart_
+- 🌱 I’m currently learning about artificial intelligence
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me *obayomisamuel2403@gmail.com*
 - 📁 https://obayomi-ayoola.vercel.app/
